@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "gastos-ingresos-dev"
+  },
+  "targets": {
+    "gastos-ingresos-dev": {
+      "hosting": {
+        "gastosIngresos": [
+          "gastos-ingresos-dev"
+        ]
+      }
+    }
   }
 }
